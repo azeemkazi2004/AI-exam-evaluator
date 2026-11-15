@@ -1,0 +1,13 @@
+streamlit
+transformers
+torch
+pillow
+pdf2image
+sentence-transformers
+scikit-learn
+groq
+pandas
+easyocr
+numpy
+opencv-python-headless
+google-generativeai
