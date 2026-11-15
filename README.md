@@ -31,6 +31,21 @@ chart, CSV downloads (Streamlit)
 - **Handwritten mode:** EasyOCR reads the image; the OCR text and the full answer key are sent to the model in JSON mode, which returns marks, max and a reason for each question.
 - Temperature is set to 0.1 for more consistent grading.
 
+## Screenshots
+
+**Upload:** one answer key, plus typed (CSV) and handwritten (image) answer files together
+![Upload](screenshots/01_upload.png)
+
+**Leaderboard** (typed answers, 24 sample students)
+![Leaderboard](screenshots/02_leaderboard.png)
+
+**Marks and feedback per question**
+![Marks and feedback](screenshots/03_marks_feedback.png)
+
+**Class analytics**
+![Analytics](screenshots/04_analytics.png)
+
+
 ## Tech stack
 
 | Area | Tools |
